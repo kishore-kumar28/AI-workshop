@@ -1,0 +1,11 @@
+ list1 = [12, -7, 5, 64, -14] 
+print(list1[0])
+print(list1[2])
+print(list1[3])
+
+
+
+list2 = [12, 14, -95, 3]
+print(list2[0])  
+print(list2[1]) 
+print(list2[3]) 
